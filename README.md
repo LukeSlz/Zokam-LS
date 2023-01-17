@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Lucas (Luke) Salazar</h1>
 <h3 align="center">Curious and creative person, professional and player</h3>
 
-- My last project was [Investment education web proposal - Angular Frameword](https://github.com/Zokam-LS/Nodo_Alpha_3/tree/main/prote-angular)
+- My last projects were:
+
+  - [Investment education web proposal - Angular Frameword](https://github.com/Zokam-LS/Nodo_Alpha_3/tree/main/prote-angular)
+
+  - [Furniture e-commerce - NodeJS | Express | MySQL | React](https://github.com/Zokam-LS/Grupo_1_Luxer)
 
 - 🌱 I’m currently learning **React, Angular, Java, Spring boot**
 
